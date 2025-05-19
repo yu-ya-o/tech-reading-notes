@@ -12,9 +12,9 @@
 
 ## 読書進捗
 
-- [ ] [ch01](ch01.md)：Webとは何か
-- [ ] [ch02](ch02.md)：Webの歴史
-- [ ] [ch03](ch03.md)：REST - Webのアーキテクチャスタイル
+- [x] [ch01](ch01.md)：Webとは何か
+- [x] [ch02](ch02.md)：Webの歴史
+- [x] [ch03](ch03.md)：REST - Webのアーキテクチャスタイル
 - [ ] [ch04](ch04.md)：URIの仕様
 - [ ] [ch05](ch05.md)：URIの設計
 - [ ] [ch06](ch06.md)：HTTPの基本
