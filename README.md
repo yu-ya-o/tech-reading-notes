@@ -6,5 +6,6 @@ I summarize key takeaways, questions, and thoughts while reading.
 ## 📚 Book List
 
 - [Web wo sasaeru gijutsu](books/WebWoSasaeruGijutsu/README.md)
+- [HowObjectsWork](books/HowObjectsWork/README.md)
 
 Each book has a dedicated folder with per-chapter notes.
