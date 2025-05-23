@@ -8,5 +8,6 @@ I summarize key takeaways, questions, and thoughts while reading.
 - [Web wo sasaeru gijutsu](books/WebWoSasaeruGijutsu/README.md)
 - [HowObjectsWork](books/HowObjectsWork/README.md)
 - [WebApiTheGoodParts](books/WebApiTheGoodParts/README.md)
+- [EffectiveJava](books/EffectiveJava/README.md)
 
 Each book has a dedicated folder with per-chapter notes.
