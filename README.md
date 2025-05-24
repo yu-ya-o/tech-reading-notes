@@ -9,5 +9,6 @@ I summarize key takeaways, questions, and thoughts while reading.
 - [HowObjectsWork](books/HowObjectsWork/README.md)
 - [WebApiTheGoodParts](books/WebApiTheGoodParts/README.md)
 - [EffectiveJava](books/EffectiveJava/README.md)
+- [TheElementsOfComputingSystems](books/TheElementsOfComputingSystems/README.md)
 
 Each book has a dedicated folder with per-chapter notes.
