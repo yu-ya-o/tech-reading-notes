@@ -5,7 +5,7 @@ I summarize key takeaways, questions, and thoughts while reading.
 
 ## 📚 Book List
 
-- [Web wo sasaeru gijutsu](books/WebWoSasaeruGijutsu/README.md)
+- [Webを支える技術](books/WebWoSasaeruGijutsu/README.md)
 - [HowObjectsWork](books/HowObjectsWork/README.md)
 - [WebApiTheGoodParts](books/WebApiTheGoodParts/README.md)
 - [EffectiveJava](books/EffectiveJava/README.md)
