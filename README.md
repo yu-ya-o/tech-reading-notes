@@ -7,7 +7,7 @@ I summarize key takeaways, questions, and thoughts while reading.
 
 - [Webを支える技術](books/WebWoSasaeruGijutsu/README.md)
 - [HowObjectsWork](books/HowObjectsWork/README.md)
-- [WebApiTheGoodParts](books/WebApiTheGoodParts/README.md)
+- [WebAPI The Good Parts](books/WebApiTheGoodParts/README.md)
 - [EffectiveJava](books/EffectiveJava/README.md)
 - [TheElementsOfComputingSystems](books/TheElementsOfComputingSystems/README.md)
 
