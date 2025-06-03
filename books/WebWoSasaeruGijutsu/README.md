@@ -12,38 +12,22 @@
 
 ## 読書進捗
 
-- [x] [ch01](ch01.md)：Webとは何か
-- [x] [ch02](ch02.md)：Webの歴史
-- [x] [ch03](ch03.md)：REST - Webのアーキテクチャスタイル
-- [ ] [ch04](ch04.md)：URIの仕様
-- [ ] [ch05](ch05.md)：URIの設計
-- [ ] [ch06](ch06.md)：HTTPの基本
-- [ ] [ch07](ch07.md)：HTTPメソッド
-- [ ] [ch08](ch08.md)：ステータスカード
-- [ ] [ch09](ch09.md)：HTTPヘッダ
-- [ ] [ch10](ch10.md)：HTML
-- [ ] [ch11](ch11.md)：microformats
-- [ ] [ch12](ch12.md)：Atom
-- [ ] [ch13](ch13.md)：Atom Publishing Protocol
-- [ ] [ch14](ch14.md)：JSON
-- [ ] [ch15](ch15.md)：読み取り専用のWebサービスの設計
-- [ ] [ch16](ch16.md)：書き込み可能なWebサービスの設計
-- [ ] [ch17](ch17.md)：リソースの設計
+- [x] ch01：Webとは何か
+- [x] ch02：Webの歴史
+- [x] ch03：REST - Webのアーキテクチャスタイル
+- [ ] ch04：URIの仕様
+- [ ] ch05：URIの設計
+- [ ] ch06：HTTPの基本
+- [ ] ch07：HTTPメソッド
+- [ ] ch08：ステータスカード
+- [ ] ch09：HTTPヘッダ
+- [ ] ch10：HTML
+- [ ] ch11：microformats
+- [ ] ch12：Atom
+- [ ] ch13：Atom Publishing Protocol
+- [ ] ch14：JSON
+- [ ] ch15：読み取り専用のWebサービスの設計
+- [ ] ch16：書き込み可能なWebサービスの設計
+- [ ] ch17：リソースの設計
 
-## メモの構成（各章ファイル）
-各章ファイル（`ch01.md` など）は以下のような構成で記述します：
-
-```md
-# ch01：Webとは何か
-
-## 要点まとめ
-- 
-
-## 気づき・学び
-- 
-
-## 疑問点・確認したいこと
-- 
-
-## 自分の業務・実装への応用
-- 
+## まとめ
