@@ -7,7 +7,7 @@ I summarize key takeaways, questions, and thoughts while reading.
 
 - [Web API The Good Parts](books/WebApiTheGoodParts/README.md)
 - [Webを支える技術](books/WebWoSasaeruGijutsu/README.md)
-- [マスタリングAPIアーキテクチャ](books/マスタリングAPIアーキテクチャ/README.md)
+- [マスタリングAPIアーキテクチャ](books/MasteringApiArchitecture/README.md)
 - オブジェクト指向でなぜつくるのか
 - プログラムはなぜ動くのか
 - Java言語で学ぶデザインパターン入門
