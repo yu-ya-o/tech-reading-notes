@@ -6,11 +6,11 @@ I summarize key takeaways, questions, and thoughts while reading.
 ## 📚 Book List
 
 - [Web API The Good Parts](books/WebApiTheGoodParts/README.md)
-- [Webを支える技術](books/WebWoSasaeruGijutsu/README.md)
 - [マスタリングAPIアーキテクチャ](books\MasteringApiArchitecture\README.md)
+- [Webを支える技術](books/WebWoSasaeruGijutsu/README.md)
 - [オブジェクト指向でなぜつくるのか](books\HowObjectsWork\README.md)
-- プログラムはなぜ動くのか
 - Java言語で学ぶデザインパターン入門
+- プログラムはなぜ動くのか
 - コンピュータシステムの理論と実践
 - 良いコード悪いコードで学ぶ設計入門
 - マスタリングTCP/IP 入門
@@ -33,4 +33,3 @@ I summarize key takeaways, questions, and thoughts while reading.
 - SOFT SKILLS
 - 明解C言語
 
-Each book has a dedicated folder with per-chapter notes.

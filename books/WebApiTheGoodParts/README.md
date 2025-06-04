@@ -40,20 +40,20 @@
 
 例）SNS
 - ユーザーの一覧取得
-- - GET
-- - https://api.example.com/v1/users
+  - GET
+  - https://api.example.com/v1/users
 - ユーザーの新規登録
-- - POST
-- - https://api.example.com/v1/users
+  - POST
+  - https://api.example.com/v1/users
 - 特定のユーザーの取得
-- - GET
-- - https://api.example.com/v1/users:id
+  - GET
+  - https://api.example.com/v1/users:id
 - ユーザー情報の更新
-- - PUT/PATCH
-- - https://api.example.com/v1/users:id
+  - PUT/PATCH
+  - https://api.example.com/v1/users:id
 - ユーザー情報の削除
-- - DELETE
-- - https://api.example.com/v1/users:id
+  - DELETE
+  - https://api.example.com/v1/users:id
 
 #### 認証API
 - OAuth2.0
